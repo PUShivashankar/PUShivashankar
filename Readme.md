@@ -129,7 +129,7 @@
   <a href="mailto:shivashankhar116@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
- <a href="https://leetcode.com/Shiva_Shankhar/" target="_blank">
+ <a href="https://leetcode.com//u/shiva_p_u/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
@@ -144,4 +144,5 @@
 <p align="center">
   <i>✨ "Code. Learn. Build. Repeat." ✨</i>
 </p>
+
 
