@@ -9,14 +9,14 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 Final-year **Computer Science & Engineering (Data Science)** student at SRM Institute of Science and Technology
+- 🎓 Final-year **Computer Science & Engineering (Data Science)** student at Rajeev Gandhi Memorial College of Engineering and Technology
 - 💡 Passionate about **Full-Stack Development, Cloud Computing, and AI/ML**  
 - 🌱 Currently mastering **MERN Stack** and strengthening **DSA** for placements  
 - 🤖 Developed ML projects including *Heart Disease Prediction* and *Smart Resume Analyzer*
 - 🌾 Researching **Smart AgroDrone – Computer Vision for Precision Farming**  
 - 📊 Experienced with **Big Data (Hadoop, MapReduce, EMR)** and **NLP techniques**
 - 🎯 Seeking opportunities in software development and AI engineering roles
-- 📫 Reach me at: **shivashankhar116@gmail.com**
+- 📫 Reach me at: **shivapeddauppari@gmail.com**
 
 ---
 
@@ -41,7 +41,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=blue)
 
 ### 🤖 ML/AI & Data Science
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -144,5 +144,6 @@
 <p align="center">
   <i>✨ "Code. Learn. Build. Repeat." ✨</i>
 </p>
+
 
 
