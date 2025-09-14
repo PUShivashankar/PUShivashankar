@@ -9,12 +9,10 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓Final-year student at RGM College of Engineering and Technology, pursuing B.Tech in Computer Science and Engineering (Data Science).
-- 💡 Passionate about **Full-Stack Development, Cloud Computing, and AI/ML**  
-- 🌱 Currently mastering **MERN Stack** and strengthening **DSA** for placements  
-- 🤖 Developed ML projects including *Heart Disease Prediction* and *Smart Resume Analyzer*
-- 🌾 Researching **Smart AgroDrone – Computer Vision for Precision Farming**  
-- 📊 Experienced with **Big Data (Hadoop, MapReduce, EMR)** and **NLP techniques**
+- 🎓Final-year student at **RGM College of Engineering and Technology**, pursuing **B.Tech in Computer Science and Engineering (Data Science)**
+- 💡 Passionate about **Full-Stack Development and AI/ML**
+- 🌱 Currently mastering **MERN Stack** and strengthening **DSA** for placements
+- 
 - 🎯 Seeking opportunities in software development and AI engineering roles
 - 📫 Reach me at: **shivapeddauppari@gmail.com**
 
@@ -144,6 +142,7 @@
 <p align="center">
   <i>✨ "Code. Learn. Build. Repeat." ✨</i>
 </p>
+
 
 
 
