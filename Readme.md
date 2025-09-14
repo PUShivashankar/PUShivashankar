@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 Final-year **Computer Science & Engineering (Data Science)** student at Rajeev Gandhi Memorial College of Engineering and Technology
+- 🎓 🎓 Final-year student at RGM College of Engineering and Technology, pursuing B.Tech in Computer Science and Engineering (Data Science).
 - 💡 Passionate about **Full-Stack Development, Cloud Computing, and AI/ML**  
 - 🌱 Currently mastering **MERN Stack** and strengthening **DSA** for placements  
 - 🤖 Developed ML projects including *Heart Disease Prediction* and *Smart Resume Analyzer*
@@ -144,6 +144,7 @@
 <p align="center">
   <i>✨ "Code. Learn. Build. Repeat." ✨</i>
 </p>
+
 
 
 
