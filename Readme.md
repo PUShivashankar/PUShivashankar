@@ -9,11 +9,10 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓Final-year student at **RGM College of Engineering and Technology**, pursuing **B.Tech in Computer Science and Engineering (Data Science)**
-- 💡 Passionate about **Full-Stack Development and AI/ML**
-- 🌱 Currently mastering **MERN Stack** and strengthening **DSA** for placements
-- 
-- 🎯 Seeking opportunities in software development and AI engineering roles
+- 🎓Final-year student at **RGM College of Engineering and Technology**, pursuing **B.Tech in Computer Science and Engineering (Data Science)**                                               
+- 💡 Passionate about **Full-Stack Web Development and AI/ML**  --Building real-World impactful AI-powered solutions.                                                                                                             
+- 🌱 Currently mastering **MERN Stack** and strengthening **DSA** for placements                           
+- 🎯 Seeking opportunities in software development and AI engineering roles                      
 - 📫 Reach me at: **shivapeddauppari@gmail.com**
 
 ---
@@ -142,6 +141,7 @@
 <p align="center">
   <i>✨ "Code. Learn. Build. Repeat." ✨</i>
 </p>
+
 
 
 
