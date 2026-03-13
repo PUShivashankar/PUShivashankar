@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shiva Shankhar</h1>
-<h3 align="center">Full-Stack Developer & ML Enthusiast | Final Year B.Tech CSE Student</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Pattikonda%20Surendra&animation=twinkling" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Final+Year+CSE(Data+Science)+Student;Full-Stack+%26+ML+Developer;Building+Real-World+AI+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFC300&center=true&vCenter=true&width=600&lines=Final+Year+CSE+(Data+Science)+Student;Full-Stack+%26+ML+Developer;Building+Real-World+AI+Projects;Open+to+Collaborations+%26+Internships;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+🚀 I build scalable full-stack applications powered by Machine Learning to solve real-world problems.
 </p>
 
 ---
@@ -141,6 +146,7 @@
 <p align="center">
   <i>✨ "Code. Learn. Build. Repeat." ✨</i>
 </p>
+
 
 
 
