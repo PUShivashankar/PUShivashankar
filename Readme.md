@@ -10,7 +10,6 @@
 🚀 Building real-world AI powered applications and scalable web solutions.
 </p>
 
-<hr>
 
 
 ---
@@ -149,6 +148,7 @@
 <p align="center">
   <i>✨ "Code. Learn. Build. Repeat." ✨</i>
 </p>
+
 
 
 
