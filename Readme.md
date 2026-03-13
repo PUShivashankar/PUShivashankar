@@ -1,11 +1,16 @@
-<p align="center">
-  <img src="Image.jpg" width="100%" />
-</p>
+<h1 align="center">
+  <span style="color:#ff7b72;">P U Siva Shankar</span>
+</h1>
+
+<h3 align="center">
+  Final Year CSE (Data Science) Student | Full-Stack & ML Developer
+</h3>
 
 <p align="center">
-  <img src="font=Fira+Code&pause=800&color=FFC300&center=true&vCenter=true&width=600&lines=Final+Year+CSE+(Data+Science)+Student;Full-Stack+%26+ML+Developer;Building+Real-World+AI+Projects;Open+to+Collaborations+%26+Internships;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+🚀 Building real-world AI powered applications and scalable web solutions.
 </p>
 
+<hr>
 <p align="center">
 🚀 I build scalable full-stack applications powered by Machine Learning to solve real-world problems.
 </p>
@@ -146,6 +151,7 @@
 <p align="center">
   <i>✨ "Code. Learn. Build. Repeat." ✨</i>
 </p>
+
 
 
 
