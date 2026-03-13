@@ -11,9 +11,7 @@
 </p>
 
 <hr>
-<p align="center">
-🚀 I build scalable full-stack applications powered by Machine Learning to solve real-world problems.
-</p>
+
 
 ---
 
@@ -151,6 +149,7 @@
 <p align="center">
   <i>✨ "Code. Learn. Build. Repeat." ✨</i>
 </p>
+
 
 
 
