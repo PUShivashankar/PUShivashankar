@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFC300&center=true&vCenter=true&width=600&lines=Final+Year+CSE+(Data+Science)+Student;Full-Stack+%26+ML+Developer;Building+Real-World+AI+Projects;Open+to+Collaborations+%26+Internships;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="font=Fira+Code&pause=800&color=FFC300&center=true&vCenter=true&width=600&lines=Final+Year+CSE+(Data+Science)+Student;Full-Stack+%26+ML+Developer;Building+Real-World+AI+Projects;Open+to+Collaborations+%26+Internships;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -146,6 +146,7 @@
 <p align="center">
   <i>✨ "Code. Learn. Build. Repeat." ✨</i>
 </p>
+
 
 
 
