@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Pattikonda%20Surendra&animation=twinkling" />
+  <img src="Image.jpg" width="100%" />
 </p>
 
 <p align="center">
@@ -146,6 +146,7 @@
 <p align="center">
   <i>✨ "Code. Learn. Build. Repeat." ✨</i>
 </p>
+
 
 
 
