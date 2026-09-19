@@ -20,7 +20,7 @@
 - 💡 Passionate about **Full-Stack Web Development and AI/ML**  --Building real-World impactful AI-powered solutions.                                                                                                             
 - 🌱 Currently mastering **MERN Stack** and strengthening **DSA** for placements                           
 - 🎯 Seeking opportunities in software development and AI engineering roles                      
-- 📫 Mail: **shivapeddauppari@gmail.com**
+- 📫 Mail: **shivashankhar116@gmail.com**
 
 ---
 
